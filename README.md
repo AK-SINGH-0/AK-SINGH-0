@@ -26,7 +26,7 @@
   <a href="mailto:Ankushkumar.123213@marwadiuniversity.ac.in">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram/Email placeholder"/>
   </a>
-  <a href="YOUR_NETLIFY_LINK_HERE" target="_blank">
+  <a href="https://ankushkumar-portfolio.netlify.app" target="_blank">
     <img height="50" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="Live Portfolio"/>
   </a>
 </p>
