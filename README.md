@@ -45,7 +45,7 @@
         <li>🔭 <b>Currently building:</b> A proprietary institutional Campus Security Platform.</li>
         <li>🔬 <b>Currently researching:</b> Intrusion Detection Systems via Federated Learning for IoT.</li>
         <li>🌌 <b>Volunteering:</b> Active NASA Citizen Scientist via Zooniverse.</li>
-        <li>🤝 <b>Open to:</b> Software Engineering Internships, AI/ML research, and Open Source.</li>
+        <li>🤝 <b>Open to:</b> Software Engineering Internships,APP Development,AI/ML research,Cybersecurity/Networking,and Open Source.</li>
       </ul>
     </td>
     <td width="40%" align="center">
