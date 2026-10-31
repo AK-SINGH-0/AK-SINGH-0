@@ -41,7 +41,7 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🎓 3rd-year Computer Engineering student at <b>Marwadi University</b>.</li>
+        <li>🎓 Computer Engineering student at <b>Marwadi University</b>.</li>
         <li>🔭 <b>Currently building:</b> A proprietary institutional Campus Security Platform.</li>
         <li>🔬 <b>Currently researching:</b> Intrusion Detection Systems via Federated Learning for IoT.</li>
         <li>🌌 <b>Volunteering:</b> Active NASA Citizen Scientist via Zooniverse.</li>
