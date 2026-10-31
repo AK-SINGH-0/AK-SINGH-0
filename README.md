@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/ankush-kumar-singh-a685783a8" target="_blank">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
   </a>
-  <a href="mailto:Ankushkumar.123213@marwadiuniversity.ac.in">
+  <a href="https://www.instagram.com/mark_the_ak?exln=aHl6MnRpdTJkNG1i">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram/Email placeholder"/>
   </a>
   <a href="https://ankushkumar-portfolio.netlify.app" target="_blank">
