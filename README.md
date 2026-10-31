@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Full+Stack+Software+Engineer;AI+%2F+ML+Enthusiast;Cybersecurity+Researcher;Building+the+Future+of+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Full+Stack+Software+Engineer;AI+%2F+ML+Enthusiast;AI/ML+Cybersecurity+Researcher;Building+the+Future+of+Tech" alt="Typing SVG" />
   </a>
 </div>
 
@@ -43,7 +43,7 @@
       <ul>
         <li>🎓 Computer Engineering student at <b>Marwadi University</b>.</li>
         <li>🔭 <b>Currently building:</b> A proprietary institutional Campus Security Platform.</li>
-        <li>🔬 <b>Currently researching:</b> Intrusion Detection Systems via Federated Learning for IoT.</li>
+        <li>🔬 <b>Research Paper Accepted At ICICAI:</b> Intrusion Detection Systems via Federated Learning for IoT Networks.</li>
         <li>🌌 <b>Volunteering:</b> Active NASA Citizen Scientist via Zooniverse.</li>
         <li>🤝 <b>Open to:</b> Software Engineering Internships,APP Development,AI/ML research,Cybersecurity/Networking,and Open Source.</li>
       </ul>
